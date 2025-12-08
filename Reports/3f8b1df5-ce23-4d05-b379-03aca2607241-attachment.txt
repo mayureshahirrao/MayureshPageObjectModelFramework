@@ -1,0 +1,30 @@
+[32mINFO    [0m TestCases.conftest:conftest.py:53 Chrome browser launched
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:26 Starting test_signup in directory: D:\Programming\PythonProgramming\PageObjectModelFramework\TestCases
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:27 **********Inside New Cars Test**********
+[32mINFO    [0m Pages.base_page:base_page.py:190 Moved to element with locator: newCar_XPATH
+[32mINFO    [0m Pages.base_page:base_page.py:67 Clicked on element with locator: findNewCars_XPATH
+[32mINFO    [0m Pages.base_page:base_page.py:67 Clicked on element with locator: tata_XPATH
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:42 Car Title: Tata Cars
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Tata Safari 1.5 Turbo Gdi Petrol AT: Rs. 16.85 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Tata Harrier 1.5 Turbo Gdi Petrol AT: Rs. 16.00 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Tata Nexon: Rs. 8.00 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Tata Sierra: Rs. 11.49 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Tata Punch: Rs. 5.50 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Tata Tiago: Rs. 4.57 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Tata Harrier: Rs. 14.00 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Tata Curvv: Rs. 9.66 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Tata Altroz: Rs. 6.30 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Tata Safari: Rs. 14.66 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Tata Harrier EV: Rs. 21.49 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Tata Tigor: Rs. 5.49 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Tata Nexon EV: Rs. 12.49 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Tata Punch EV: Rs. 9.99 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Tata Tiago EV: Rs. 7.99 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Tata Curvv EV: Rs. 17.49 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Tata Tiago NRG: Rs. 6.68 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Tata Tigor EV: Rs. 12.49 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Tata Sierra EV: Rs. 20.00 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Tata Punch Facelift: Rs. 6.00 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Tata Safari EV: Rs. 26.00 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Tata Altroz EV: Rs. 12.00 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Tata Avinya: Rs. 30.00 Lakh

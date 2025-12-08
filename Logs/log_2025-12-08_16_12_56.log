@@ -1,0 +1,24 @@
+2025-12-08 16:12:59,842 - conftest.py:[51] - INFO - Chrome browser launched
+2025-12-08 16:13:01,032 - test_carwale.py:[26] - INFO - Starting test_signup in directory: D:\Programming\PythonProgramming\PageObjectModelFramework
+2025-12-08 16:13:01,032 - test_carwale.py:[27] - INFO - **********Inside New Cars Test**********
+2025-12-08 16:13:01,316 - base_page.py:[184] - INFO - Moved to element with locator: newCar_XPATH
+2025-12-08 16:13:01,395 - base_page.py:[61] - INFO - Clicked on element with locator: findNewCars_XPATH
+2025-12-08 16:13:04,922 - base_page.py:[61] - INFO - Clicked on element with locator: hyundai_XPATH
+2025-12-08 16:13:15,500 - conftest.py:[51] - INFO - Chrome browser launched
+2025-12-08 16:13:16,782 - test_carwale.py:[26] - INFO - Starting test_signup in directory: D:\Programming\PythonProgramming\PageObjectModelFramework
+2025-12-08 16:13:16,782 - test_carwale.py:[27] - INFO - **********Inside New Cars Test**********
+2025-12-08 16:13:17,072 - base_page.py:[184] - INFO - Moved to element with locator: newCar_XPATH
+2025-12-08 16:13:17,145 - base_page.py:[61] - INFO - Clicked on element with locator: findNewCars_XPATH
+2025-12-08 16:13:18,357 - base_page.py:[61] - INFO - Clicked on element with locator: toyota_XPATH
+2025-12-08 16:13:28,854 - conftest.py:[51] - INFO - Chrome browser launched
+2025-12-08 16:13:30,008 - test_carwale.py:[26] - INFO - Starting test_signup in directory: D:\Programming\PythonProgramming\PageObjectModelFramework
+2025-12-08 16:13:30,008 - test_carwale.py:[27] - INFO - **********Inside New Cars Test**********
+2025-12-08 16:13:30,295 - base_page.py:[184] - INFO - Moved to element with locator: newCar_XPATH
+2025-12-08 16:13:30,370 - base_page.py:[61] - INFO - Clicked on element with locator: findNewCars_XPATH
+2025-12-08 16:13:30,695 - base_page.py:[61] - INFO - Clicked on element with locator: tata_XPATH
+2025-12-08 16:13:41,092 - conftest.py:[51] - INFO - Chrome browser launched
+2025-12-08 16:13:42,193 - test_carwale.py:[26] - INFO - Starting test_signup in directory: D:\Programming\PythonProgramming\PageObjectModelFramework
+2025-12-08 16:13:42,193 - test_carwale.py:[27] - INFO - **********Inside New Cars Test**********
+2025-12-08 16:13:42,493 - base_page.py:[184] - INFO - Moved to element with locator: newCar_XPATH
+2025-12-08 16:13:42,608 - base_page.py:[61] - INFO - Clicked on element with locator: findNewCars_XPATH
+2025-12-08 16:13:42,809 - base_page.py:[61] - INFO - Clicked on element with locator: maruti_XPATH

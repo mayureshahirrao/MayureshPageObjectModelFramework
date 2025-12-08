@@ -1,0 +1,29 @@
+[32mINFO    [0m TestCases.conftest:conftest.py:53 Chrome browser launched
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:26 Starting test_signup in directory: D:\Programming\PythonProgramming\PageObjectModelFramework\TestCases
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:27 **********Inside New Cars Test**********
+[32mINFO    [0m Pages.base_page:base_page.py:190 Moved to element with locator: newCar_XPATH
+[32mINFO    [0m Pages.base_page:base_page.py:67 Clicked on element with locator: findNewCars_XPATH
+[32mINFO    [0m Pages.base_page:base_page.py:67 Clicked on element with locator: maruti_XPATH
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:42 Car Title: Maruti Cars
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Maruti Fronx: Rs. 6.85 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Maruti Baleno: Rs. 5.99 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Maruti Swift: Rs. 5.79 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Maruti Victoris: Rs. 10.50 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Maruti Dzire: Rs. 6.26 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Maruti Grand Vitara: Rs. 10.77 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Maruti Brezza: Rs. 8.26 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Maruti Wagon R: Rs. 4.99 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Maruti Ertiga: Rs. 8.80 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Maruti Alto K10: Rs. 3.70 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Maruti Celerio: Rs. 4.70 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Maruti S-Presso: Rs. 3.50 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Maruti XL6: Rs. 11.52 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Maruti Ignis: Rs. 5.35 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Maruti Jimny: Rs. 12.32 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Maruti Eeco: Rs. 5.21 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Maruti Ciaz: Rs. 9.09 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Maruti Invicto: Rs. 24.97 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Maruti Grand Vitara Phantom Blaq Edition: Rs. 20.22 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Maruti e Vitara: Rs. 20.00 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Maruti Wagon R Flex Fuel: Rs. 8.50 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Maruti 2026 Brezza: Rs. 8.90 Lakh

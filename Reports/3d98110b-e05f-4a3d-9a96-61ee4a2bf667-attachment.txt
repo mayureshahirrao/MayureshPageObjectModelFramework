@@ -1,0 +1,2 @@
+current_dir in config reader: D:\Programming\PythonProgramming\PageObjectModelFramework\TestCases
+file_path in config reader: Configurations\config.ini

@@ -1,0 +1,23 @@
+[32mINFO    [0m TestCases.conftest:conftest.py:53 Chrome browser launched
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:26 Starting test_signup in directory: D:\Programming\PythonProgramming\PageObjectModelFramework\TestCases
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:27 **********Inside New Cars Test**********
+[32mINFO    [0m Pages.base_page:base_page.py:190 Moved to element with locator: newCar_XPATH
+[32mINFO    [0m Pages.base_page:base_page.py:67 Clicked on element with locator: findNewCars_XPATH
+[32mINFO    [0m Pages.base_page:base_page.py:67 Clicked on element with locator: toyota_XPATH
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:42 Car Title: Toyota Cars
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Toyota Urban Cruiser Hyryder: Rs. 10.95 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Toyota Fortuner: Rs. 33.64 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Toyota Urban Cruiser Taisor: Rs. 7.21 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Toyota Innova Hycross: Rs. 18.86 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Toyota Glanza: Rs. 6.39 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Toyota Innova Crysta: Rs. 18.66 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Toyota Hilux: Rs. 28.02 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Toyota Camry: Rs. 47.48 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Toyota Vellfire: Rs. 41.54 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Toyota Fortuner Legender: Rs. 41.54 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Toyota Land Cruiser: Rs. 10.44 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Toyota Rumion: Rs. 10.44 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Toyota Urban Cruiser EV: Rs. 20.00 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Toyota Urban Cruiser Hyryder 7 seater: Rs. 21.00 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Toyota BZ4X: Rs. 60.00 Lakh
+[32mINFO    [0m TestCases.test_carwale:test_carwale.py:46 Toyota New Land Cruiser FJ: Rs. 20.00 Lakh

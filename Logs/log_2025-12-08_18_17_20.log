@@ -1,0 +1,18 @@
+2025-12-08 18:17:23,733 - conftest.py:[51] - INFO - Chrome browser launched
+2025-12-08 18:17:25,167 - base_page.py:[189] - INFO - Moved to element with locator: newCar_XPATH
+2025-12-08 18:17:25,247 - base_page.py:[66] - INFO - Clicked on element with locator: findNewCars_XPATH
+2025-12-08 18:17:25,412 - base_page.py:[66] - INFO - Clicked on element with locator: hyundai_XPATH
+2025-12-08 18:17:25,556 - conftest.py:[39] - INFO - Test failed! Taking screenshot...
+2025-12-08 18:17:30,500 - conftest.py:[51] - INFO - Chrome browser launched
+2025-12-08 18:17:32,055 - base_page.py:[189] - INFO - Moved to element with locator: newCar_XPATH
+2025-12-08 18:17:32,130 - base_page.py:[66] - INFO - Clicked on element with locator: findNewCars_XPATH
+2025-12-08 18:17:32,324 - base_page.py:[66] - INFO - Clicked on element with locator: toyota_XPATH
+2025-12-08 18:17:32,737 - conftest.py:[39] - INFO - Test failed! Taking screenshot...
+2025-12-08 18:17:37,463 - conftest.py:[51] - INFO - Chrome browser launched
+2025-12-08 18:17:39,101 - base_page.py:[189] - INFO - Moved to element with locator: newCar_XPATH
+2025-12-08 18:17:39,178 - base_page.py:[66] - INFO - Clicked on element with locator: findNewCars_XPATH
+2025-12-08 18:17:39,367 - base_page.py:[66] - INFO - Clicked on element with locator: tata_XPATH
+2025-12-08 18:17:39,930 - conftest.py:[39] - INFO - Test failed! Taking screenshot...
+2025-12-08 18:17:44,602 - conftest.py:[51] - INFO - Chrome browser launched
+2025-12-08 18:17:46,384 - base_page.py:[189] - INFO - Moved to element with locator: newCar_XPATH
+2025-12-08 18:17:56,480 - conftest.py:[39] - INFO - Test failed! Taking screenshot...

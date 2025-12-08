@@ -1,0 +1,22 @@
+2025-12-08 17:22:58,386 - conftest.py:[51] - INFO - Chrome browser launched
+2025-12-08 17:22:59,219 - test_carwale.py:[26] - INFO - Starting test_signup in directory: D:\Programming\PythonProgramming\PageObjectModelFramework
+2025-12-08 17:22:59,219 - test_carwale.py:[27] - INFO - **********Inside New Cars Test**********
+2025-12-08 17:22:59,565 - base_page.py:[184] - INFO - Moved to element with locator: newCar_XPATH
+2025-12-08 17:23:14,714 - conftest.py:[51] - INFO - Chrome browser launched
+2025-12-08 17:23:15,989 - test_carwale.py:[26] - INFO - Starting test_signup in directory: D:\Programming\PythonProgramming\PageObjectModelFramework
+2025-12-08 17:23:15,989 - test_carwale.py:[27] - INFO - **********Inside New Cars Test**********
+2025-12-08 17:23:16,277 - base_page.py:[184] - INFO - Moved to element with locator: newCar_XPATH
+2025-12-08 17:23:16,356 - base_page.py:[61] - INFO - Clicked on element with locator: findNewCars_XPATH
+2025-12-08 17:23:16,610 - base_page.py:[61] - INFO - Clicked on element with locator: toyota_XPATH
+2025-12-08 17:23:26,981 - conftest.py:[51] - INFO - Chrome browser launched
+2025-12-08 17:23:28,225 - test_carwale.py:[26] - INFO - Starting test_signup in directory: D:\Programming\PythonProgramming\PageObjectModelFramework
+2025-12-08 17:23:28,225 - test_carwale.py:[27] - INFO - **********Inside New Cars Test**********
+2025-12-08 17:23:28,498 - base_page.py:[184] - INFO - Moved to element with locator: newCar_XPATH
+2025-12-08 17:23:28,599 - base_page.py:[61] - INFO - Clicked on element with locator: findNewCars_XPATH
+2025-12-08 17:23:28,802 - base_page.py:[61] - INFO - Clicked on element with locator: tata_XPATH
+2025-12-08 17:23:39,050 - conftest.py:[51] - INFO - Chrome browser launched
+2025-12-08 17:23:41,741 - test_carwale.py:[26] - INFO - Starting test_signup in directory: D:\Programming\PythonProgramming\PageObjectModelFramework
+2025-12-08 17:23:41,741 - test_carwale.py:[27] - INFO - **********Inside New Cars Test**********
+2025-12-08 17:23:42,029 - base_page.py:[184] - INFO - Moved to element with locator: newCar_XPATH
+2025-12-08 17:23:42,144 - base_page.py:[61] - INFO - Clicked on element with locator: findNewCars_XPATH
+2025-12-08 17:23:42,299 - base_page.py:[61] - INFO - Clicked on element with locator: maruti_XPATH

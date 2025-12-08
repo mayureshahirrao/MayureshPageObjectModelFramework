@@ -1,0 +1,1 @@
+[32mINFO    [0m TestCases.conftest:conftest.py:51 Chrome browser launched

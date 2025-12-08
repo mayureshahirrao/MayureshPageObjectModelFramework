@@ -1,0 +1,112 @@
+2025-12-08 18:31:20,522 - conftest.py:[51] - INFO - Chrome browser launched
+2025-12-08 18:31:21,692 - test_carwale.py:[26] - INFO - Starting test_signup in directory: D:\Programming\PythonProgramming\PageObjectModelFramework
+2025-12-08 18:31:21,693 - test_carwale.py:[27] - INFO - **********Inside New Cars Test**********
+2025-12-08 18:31:21,965 - base_page.py:[189] - INFO - Moved to element with locator: newCar_XPATH
+2025-12-08 18:31:22,039 - base_page.py:[66] - INFO - Clicked on element with locator: findNewCars_XPATH
+2025-12-08 18:31:22,295 - base_page.py:[66] - INFO - Clicked on element with locator: hyundai_XPATH
+2025-12-08 18:31:22,572 - test_carwale.py:[42] - INFO - Car Title: Hyundai Cars
+2025-12-08 18:31:22,930 - test_carwale.py:[46] - INFO - Hyundai Creta: Rs. 10.73 Lakh
+2025-12-08 18:31:22,930 - test_carwale.py:[46] - INFO - Hyundai Venue: Rs. 7.90 Lakh
+2025-12-08 18:31:22,931 - test_carwale.py:[46] - INFO - Hyundai Exter: Rs. 5.68 Lakh
+2025-12-08 18:31:22,931 - test_carwale.py:[46] - INFO - Hyundai Grand i10 Nios: Rs. 5.47 Lakh
+2025-12-08 18:31:22,931 - test_carwale.py:[46] - INFO - Hyundai i20: Rs. 6.87 Lakh
+2025-12-08 18:31:22,931 - test_carwale.py:[46] - INFO - Hyundai Aura: Rs. 5.98 Lakh
+2025-12-08 18:31:22,931 - test_carwale.py:[46] - INFO - Hyundai Verna: Rs. 10.69 Lakh
+2025-12-08 18:31:22,931 - test_carwale.py:[46] - INFO - Hyundai Alcazar: Rs. 14.47 Lakh
+2025-12-08 18:31:22,931 - test_carwale.py:[46] - INFO - Hyundai Venue N Line: Rs. 10.55 Lakh
+2025-12-08 18:31:22,931 - test_carwale.py:[46] - INFO - Hyundai i20 N Line: Rs. 9.14 Lakh
+2025-12-08 18:31:22,931 - test_carwale.py:[46] - INFO - Hyundai Creta Electric: Rs. 18.02 Lakh
+2025-12-08 18:31:22,931 - test_carwale.py:[46] - INFO - Hyundai Tucson: Rs. 27.32 Lakh
+2025-12-08 18:31:22,931 - test_carwale.py:[46] - INFO - Hyundai Creta N Line: Rs. 17.83 Lakh
+2025-12-08 18:31:22,931 - test_carwale.py:[46] - INFO - Hyundai Ioniq 5: Rs. 46.30 Lakh
+2025-12-08 18:31:22,931 - test_carwale.py:[46] - INFO - Hyundai Ioniq 5 Facelift: Rs. 36.37 Lakh
+2025-12-08 18:31:22,931 - test_carwale.py:[46] - INFO - Hyundai 2026 Verna: Rs. 12.00 Lakh
+2025-12-08 18:31:22,931 - test_carwale.py:[46] - INFO - Hyundai Palisade: Rs. 40.00 Lakh
+2025-12-08 18:31:22,931 - test_carwale.py:[46] - INFO - Hyundai Ioniq 9: Rs. 29.00 Lakh
+2025-12-08 18:31:22,931 - test_carwale.py:[46] - INFO - Hyundai Tucson Facelift: Rs. 29.00 Lakh
+2025-12-08 18:31:22,931 - test_carwale.py:[46] - INFO - Hyundai Staria: Rs. 55.00 Lakh
+2025-12-08 18:31:22,931 - test_carwale.py:[46] - INFO - Hyundai Stargazer: Rs. 9.60 Lakh
+2025-12-08 18:31:22,931 - test_carwale.py:[46] - INFO - Hyundai New Santa Fe: Rs. 45.00 Lakh
+2025-12-08 18:31:22,931 - test_carwale.py:[46] - INFO - Hyundai Ioniq 6: Rs. 50.00 Lakh
+2025-12-08 18:31:32,621 - conftest.py:[51] - INFO - Chrome browser launched
+2025-12-08 18:31:33,661 - test_carwale.py:[26] - INFO - Starting test_signup in directory: D:\Programming\PythonProgramming\PageObjectModelFramework
+2025-12-08 18:31:33,661 - test_carwale.py:[27] - INFO - **********Inside New Cars Test**********
+2025-12-08 18:31:33,939 - base_page.py:[189] - INFO - Moved to element with locator: newCar_XPATH
+2025-12-08 18:31:34,017 - base_page.py:[66] - INFO - Clicked on element with locator: findNewCars_XPATH
+2025-12-08 18:31:34,222 - base_page.py:[66] - INFO - Clicked on element with locator: toyota_XPATH
+2025-12-08 18:31:34,361 - test_carwale.py:[42] - INFO - Car Title: Toyota Cars
+2025-12-08 18:31:34,581 - test_carwale.py:[46] - INFO - Toyota Urban Cruiser Hyryder: Rs. 10.95 Lakh
+2025-12-08 18:31:34,581 - test_carwale.py:[46] - INFO - Toyota Fortuner: Rs. 33.64 Lakh
+2025-12-08 18:31:34,581 - test_carwale.py:[46] - INFO - Toyota Urban Cruiser Taisor: Rs. 7.21 Lakh
+2025-12-08 18:31:34,581 - test_carwale.py:[46] - INFO - Toyota Innova Hycross: Rs. 18.86 Lakh
+2025-12-08 18:31:34,581 - test_carwale.py:[46] - INFO - Toyota Glanza: Rs. 6.39 Lakh
+2025-12-08 18:31:34,581 - test_carwale.py:[46] - INFO - Toyota Innova Crysta: Rs. 18.66 Lakh
+2025-12-08 18:31:34,581 - test_carwale.py:[46] - INFO - Toyota Hilux: Rs. 28.02 Lakh
+2025-12-08 18:31:34,582 - test_carwale.py:[46] - INFO - Toyota Camry: Rs. 47.48 Lakh
+2025-12-08 18:31:34,582 - test_carwale.py:[46] - INFO - Toyota Vellfire: Rs. 41.54 Lakh
+2025-12-08 18:31:34,582 - test_carwale.py:[46] - INFO - Toyota Fortuner Legender: Rs. 41.54 Lakh
+2025-12-08 18:31:34,582 - test_carwale.py:[46] - INFO - Toyota Land Cruiser: Rs. 10.44 Lakh
+2025-12-08 18:31:34,582 - test_carwale.py:[46] - INFO - Toyota Rumion: Rs. 10.44 Lakh
+2025-12-08 18:31:34,582 - test_carwale.py:[46] - INFO - Toyota Urban Cruiser EV: Rs. 20.00 Lakh
+2025-12-08 18:31:34,582 - test_carwale.py:[46] - INFO - Toyota Urban Cruiser Hyryder 7 seater: Rs. 21.00 Lakh
+2025-12-08 18:31:34,582 - test_carwale.py:[46] - INFO - Toyota BZ4X: Rs. 60.00 Lakh
+2025-12-08 18:31:34,582 - test_carwale.py:[46] - INFO - Toyota New Land Cruiser FJ: Rs. 20.00 Lakh
+2025-12-08 18:31:44,303 - conftest.py:[51] - INFO - Chrome browser launched
+2025-12-08 18:31:45,509 - test_carwale.py:[26] - INFO - Starting test_signup in directory: D:\Programming\PythonProgramming\PageObjectModelFramework
+2025-12-08 18:31:45,509 - test_carwale.py:[27] - INFO - **********Inside New Cars Test**********
+2025-12-08 18:31:45,799 - base_page.py:[189] - INFO - Moved to element with locator: newCar_XPATH
+2025-12-08 18:31:45,879 - base_page.py:[66] - INFO - Clicked on element with locator: findNewCars_XPATH
+2025-12-08 18:31:46,061 - base_page.py:[66] - INFO - Clicked on element with locator: tata_XPATH
+2025-12-08 18:31:46,228 - test_carwale.py:[42] - INFO - Car Title: Tata Cars
+2025-12-08 18:31:46,579 - test_carwale.py:[46] - INFO - Tata Safari 1.5 Turbo Gdi Petrol AT: Rs. 16.85 Lakh
+2025-12-08 18:31:46,579 - test_carwale.py:[46] - INFO - Tata Harrier 1.5 Turbo Gdi Petrol AT: Rs. 16.00 Lakh
+2025-12-08 18:31:46,579 - test_carwale.py:[46] - INFO - Tata Nexon: Rs. 8.00 Lakh
+2025-12-08 18:31:46,579 - test_carwale.py:[46] - INFO - Tata Sierra: Rs. 11.49 Lakh
+2025-12-08 18:31:46,579 - test_carwale.py:[46] - INFO - Tata Punch: Rs. 5.50 Lakh
+2025-12-08 18:31:46,579 - test_carwale.py:[46] - INFO - Tata Tiago: Rs. 4.57 Lakh
+2025-12-08 18:31:46,579 - test_carwale.py:[46] - INFO - Tata Harrier: Rs. 14.00 Lakh
+2025-12-08 18:31:46,579 - test_carwale.py:[46] - INFO - Tata Curvv: Rs. 9.66 Lakh
+2025-12-08 18:31:46,579 - test_carwale.py:[46] - INFO - Tata Altroz: Rs. 6.30 Lakh
+2025-12-08 18:31:46,579 - test_carwale.py:[46] - INFO - Tata Safari: Rs. 14.66 Lakh
+2025-12-08 18:31:46,579 - test_carwale.py:[46] - INFO - Tata Harrier EV: Rs. 21.49 Lakh
+2025-12-08 18:31:46,579 - test_carwale.py:[46] - INFO - Tata Tigor: Rs. 5.49 Lakh
+2025-12-08 18:31:46,579 - test_carwale.py:[46] - INFO - Tata Nexon EV: Rs. 12.49 Lakh
+2025-12-08 18:31:46,579 - test_carwale.py:[46] - INFO - Tata Punch EV: Rs. 9.99 Lakh
+2025-12-08 18:31:46,579 - test_carwale.py:[46] - INFO - Tata Tiago EV: Rs. 7.99 Lakh
+2025-12-08 18:31:46,579 - test_carwale.py:[46] - INFO - Tata Curvv EV: Rs. 17.49 Lakh
+2025-12-08 18:31:46,579 - test_carwale.py:[46] - INFO - Tata Tiago NRG: Rs. 6.68 Lakh
+2025-12-08 18:31:46,579 - test_carwale.py:[46] - INFO - Tata Tigor EV: Rs. 12.49 Lakh
+2025-12-08 18:31:46,579 - test_carwale.py:[46] - INFO - Tata Sierra EV: Rs. 20.00 Lakh
+2025-12-08 18:31:46,579 - test_carwale.py:[46] - INFO - Tata Punch Facelift: Rs. 6.00 Lakh
+2025-12-08 18:31:46,580 - test_carwale.py:[46] - INFO - Tata Safari EV: Rs. 26.00 Lakh
+2025-12-08 18:31:46,580 - test_carwale.py:[46] - INFO - Tata Altroz EV: Rs. 12.00 Lakh
+2025-12-08 18:31:46,580 - test_carwale.py:[46] - INFO - Tata Avinya: Rs. 30.00 Lakh
+2025-12-08 18:31:56,297 - conftest.py:[51] - INFO - Chrome browser launched
+2025-12-08 18:31:57,723 - test_carwale.py:[26] - INFO - Starting test_signup in directory: D:\Programming\PythonProgramming\PageObjectModelFramework
+2025-12-08 18:31:57,723 - test_carwale.py:[27] - INFO - **********Inside New Cars Test**********
+2025-12-08 18:31:58,005 - base_page.py:[189] - INFO - Moved to element with locator: newCar_XPATH
+2025-12-08 18:31:58,081 - base_page.py:[66] - INFO - Clicked on element with locator: findNewCars_XPATH
+2025-12-08 18:31:58,268 - base_page.py:[66] - INFO - Clicked on element with locator: maruti_XPATH
+2025-12-08 18:31:58,475 - test_carwale.py:[42] - INFO - Car Title: Maruti Cars
+2025-12-08 18:31:58,792 - test_carwale.py:[46] - INFO - Maruti Fronx: Rs. 6.85 Lakh
+2025-12-08 18:31:58,792 - test_carwale.py:[46] - INFO - Maruti Baleno: Rs. 5.99 Lakh
+2025-12-08 18:31:58,792 - test_carwale.py:[46] - INFO - Maruti Swift: Rs. 5.79 Lakh
+2025-12-08 18:31:58,792 - test_carwale.py:[46] - INFO - Maruti Victoris: Rs. 10.50 Lakh
+2025-12-08 18:31:58,792 - test_carwale.py:[46] - INFO - Maruti Dzire: Rs. 6.26 Lakh
+2025-12-08 18:31:58,792 - test_carwale.py:[46] - INFO - Maruti Grand Vitara: Rs. 10.77 Lakh
+2025-12-08 18:31:58,792 - test_carwale.py:[46] - INFO - Maruti Brezza: Rs. 8.26 Lakh
+2025-12-08 18:31:58,792 - test_carwale.py:[46] - INFO - Maruti Wagon R: Rs. 4.99 Lakh
+2025-12-08 18:31:58,792 - test_carwale.py:[46] - INFO - Maruti Ertiga: Rs. 8.80 Lakh
+2025-12-08 18:31:58,792 - test_carwale.py:[46] - INFO - Maruti Alto K10: Rs. 3.70 Lakh
+2025-12-08 18:31:58,792 - test_carwale.py:[46] - INFO - Maruti Celerio: Rs. 4.70 Lakh
+2025-12-08 18:31:58,792 - test_carwale.py:[46] - INFO - Maruti S-Presso: Rs. 3.50 Lakh
+2025-12-08 18:31:58,792 - test_carwale.py:[46] - INFO - Maruti XL6: Rs. 11.52 Lakh
+2025-12-08 18:31:58,792 - test_carwale.py:[46] - INFO - Maruti Ignis: Rs. 5.35 Lakh
+2025-12-08 18:31:58,792 - test_carwale.py:[46] - INFO - Maruti Jimny: Rs. 12.32 Lakh
+2025-12-08 18:31:58,792 - test_carwale.py:[46] - INFO - Maruti Eeco: Rs. 5.21 Lakh
+2025-12-08 18:31:58,792 - test_carwale.py:[46] - INFO - Maruti Ciaz: Rs. 9.09 Lakh
+2025-12-08 18:31:58,792 - test_carwale.py:[46] - INFO - Maruti Invicto: Rs. 24.97 Lakh
+2025-12-08 18:31:58,792 - test_carwale.py:[46] - INFO - Maruti Grand Vitara Phantom Blaq Edition: Rs. 20.22 Lakh
+2025-12-08 18:31:58,792 - test_carwale.py:[46] - INFO - Maruti e Vitara: Rs. 20.00 Lakh
+2025-12-08 18:31:58,792 - test_carwale.py:[46] - INFO - Maruti Wagon R Flex Fuel: Rs. 8.50 Lakh
+2025-12-08 18:31:58,792 - test_carwale.py:[46] - INFO - Maruti 2026 Brezza: Rs. 8.90 Lakh
