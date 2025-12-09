@@ -22,7 +22,7 @@ class BasePage:
         self.wait = WebDriverWait(self.driver, 10)
         cwd = os.getcwd()
         print(f"current_dir in config reader: {cwd}")
-        if cwd =="D:\\Programming\\PythonProgramming\\PageObjectModelFramework":
+        if cwd.endswith("PageObjectModelFramework"):
             self.config_file_path = "Configurations\\config.ini"
         else:
             self.config_file_path = "..\\Configurations\\config.ini"

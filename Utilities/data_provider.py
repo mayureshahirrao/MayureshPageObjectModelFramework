@@ -5,7 +5,7 @@ from Utilities import excel_operations as EXCEL
 
 def get_data(sheet_name):
     cwd = os.getcwd()
-    if cwd == "D:\\Programming\\PythonProgramming\\PageObjectModelFramework":
+    if cwd.endswith("PageObjectModelFramework"):
         read_file_path = 'Excel\\testdata.xlsx'
     else:
         read_file_path = "..\\Excel\\testdata.xlsx"
