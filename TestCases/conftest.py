@@ -43,8 +43,8 @@ def on_log_failure(request,browser_setup):
                       name="PAge_Screenshot",
                       attachment_type=AttachmentType.PNG)
 
-# @pytest.fixture(params=['chrome', 'firefox', 'edge'], scope='function', autouse=True)
-@pytest.fixture(params=['chrome'], scope='function', autouse=True)
+@pytest.fixture(params=['chrome', 'firefox', 'edge'], scope='function', autouse=True)
+# @pytest.fixture(params=['chrome'], scope='function', autouse=True)
 def browser_setup(request):
     global driver
     if request.param == 'chrome':
@@ -66,7 +66,7 @@ def browser_setup(request):
 
     cwd = os.getcwd()
     print(f"current_dir in conftest: {cwd}")
-    if cwd == "D:\\Programming\\PythonProgramming\\PageObjectModelFramework":
+    if cwd.endswith("PageObjectModelFramework"):
         config_file_path = "Configurations\\config.ini"
     else:
         config_file_path = "..\\Configurations\\config.ini"
