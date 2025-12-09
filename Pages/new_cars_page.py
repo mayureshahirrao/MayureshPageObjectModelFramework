@@ -1,4 +1,5 @@
 from Pages.base_page import BasePage
+from Pages.bmw_page import BMWPage
 from Pages.tata_page import TataPage
 from Pages.hyundai_page import HyundaiPage
 from Pages.maruti_page import MarutiPage
@@ -24,3 +25,7 @@ class NewCarsPage(BasePage):
     def select_tata(self):
         self.click("tata_XPATH", self.config_file_path)
         return TataPage(self.driver)
+
+    def select_bmw(self):
+        self.click("bmw_XPATH", self.config_file_path)
+        return BMWPage(self.driver)

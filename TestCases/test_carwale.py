@@ -36,6 +36,8 @@ class Test_CarWale(BaseTest):
             selected_car_brand = new_car.select_toyota()
         elif car_brand.lower() == "tata":
             selected_car_brand = new_car.select_tata()
+        elif car_brand.lower() == "bmw":
+            selected_car_brand = new_car.select_bmw()
         else:
             log.logger.error(f"Invalid car brand: {car_brand}")
             assert False, f"Invalid car brand: {car_brand}"

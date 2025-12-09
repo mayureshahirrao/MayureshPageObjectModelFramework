@@ -1,4 +1,0 @@
-2025-12-08 16:37:25,472 - conftest.py:[51] - INFO - Chrome browser launched
-2025-12-08 16:37:55,047 - base_page.py:[184] - INFO - Moved to element with locator: newCar_XPATH
-2025-12-08 16:37:59,684 - base_page.py:[61] - INFO - Clicked on element with locator: findNewCars_XPATH
-2025-12-08 16:38:04,836 - base_page.py:[61] - INFO - Clicked on element with locator: hyundai_XPATH
