@@ -45,7 +45,7 @@ def get_cell_value(file_path, sheet_name, row, column):
     workbook = openpyxl.load_workbook(file_path)
     sheet = workbook[sheet_name]
 
-    return sheet.cell(row=row, column=column).value.strip()
+    return sheet.cell(row=row, column=column).value
 
 def set_cell_value(file_path, sheet_name, row, column, value):
     workbook = openpyxl.load_workbook(file_path)
