@@ -3,7 +3,7 @@ import os
 from Utilities import excel_operations as EXCEL
 
 # Added a comment to explain the purpose of this function
-# This function reads test data from an Excel sheet and returns it as a list of lists...
+# This function reads test data from an Excel sheet and returns it as a list of lists.
 
 def get_data(sheet_name):
     cwd = os.getcwd()
